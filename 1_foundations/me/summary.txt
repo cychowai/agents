@@ -1,2 +1,76 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+JIM CHOW - PROFESSIONAL SUMMARY
+
+CONTACT INFORMATION
+Email: cychowai@connect.ust.hk
+Phone: 69186910 (Mobile)
+LinkedIn: www.linkedin.com/in/jim-chow-727277210
+Personal Website: www.jim-chow.com/
+GitHub: https://github.com/cychowai
+Location: New Territories, Hong Kong SAR
+
+CURRENT ROLE
+Programmer at 醫院管理局 (Hospital Authority) (August 2025 - Present)
+
+PROFESSIONAL SUMMARY
+Software Engineer with approximately 4 years of programming experience, specializing in full-stack web development and modern web technologies. Currently working in Hong Kong's healthcare sector as a programmer for the Hospital Authority.
+
+TOP SKILLS
+- Azure DevOps Services
+- Next.js
+- NestJS
+- Full-stack Web Development
+- Web Application Development
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate
+
+HONORS & AWARDS
+- Dean of Engineering Scholarship
+
+PROFESSIONAL EXPERIENCE
+
+Current Position:
+• Programmer, 醫院管理局 (Hospital Authority) (August 2025 - Present)
+  - Working in Hong Kong's public healthcare system
+
+Previous Positions:
+• Software Engineer, Modern Dental Group (July 2023 - August 2025)
+  - 2+ years developing software solutions for dental healthcare industry
+  - Location: Hong Kong SAR
+
+• Software Developer, Businsoft (June 2022 - July 2023)
+  - 1 year 2 months of software development experience
+  - Location: Hong Kong SAR
+
+• Full-stack Web Developer, Tailor-M (September 2021 - June 2022)
+  - 10 months developing full-stack web applications
+  - Location: Kowloon Bay
+
+• Full-stack Web Developer, TechQuotations (September 2021 - June 2022)
+  - 10 months concurrent role in full-stack development
+  - Location: Kowloon Bay
+
+• Full-stack Web & App Developer, Vivablee (July 2021 - August 2021)
+  - 2 months developing web and mobile applications
+  - Location: Kwun Tong
+
+• Web Tester and WordPress Web Assistant, Dayta AI (July 2020 - August 2020)
+  - 2 months internship/entry-level position in web testing and WordPress development
+  - Location: Hong Kong Science Park
+
+EDUCATION
+Hong Kong University of Science and Technology (HKUST)
+Bachelor of Engineering (BE) in Computer Engineering
+September 2018 - September 2022
+
+CAREER PROGRESSION
+- Started with internship/testing roles during university
+- Progressed to full-stack development positions
+- Advanced to software engineer roles in healthcare and dental industries
+- Currently working in Hong Kong's public healthcare sector
+
+TECHNICAL FOCUS
+Specializes in modern web technologies including Next.js and NestJS frameworks, with experience in Azure DevOps for development operations. AWS certified with demonstrated cloud architecture knowledge.
+
+ADDITIONAL INFORMATION
+Maintains active online presence through personal website and GitHub portfolio showcasing development work and projects.
